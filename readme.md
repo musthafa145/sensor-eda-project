@@ -105,7 +105,5 @@ Developed by [Musthafa](https://github.com/musthafa145)
 
 ```
 
----
 
-👉 If you want, I can also give you a quick **command** that overwrites your current `readme.md` with this new content, so you don’t have to paste it manually. Want me to do that?
-```
+
